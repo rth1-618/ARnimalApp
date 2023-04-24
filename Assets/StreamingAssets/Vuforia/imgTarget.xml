@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="lion1" size="1.000000 0.662963" />
+    <ImageTarget name="eagle1" size="1.000000 0.660044" />
+    <ImageTarget name="elephant1" size="1.000000 0.888668" />
+    <ImageTarget name="snake" size="1.000000 0.483911" />
+    <ImageTarget name="lion" size="1.000000 0.571429" />
+    <ImageTarget name="elephant" size="1.000000 0.455798" />
+    <ImageTarget name="eagle" size="1.000000 0.524333" />
+    <ImageTarget name="snake1" size="1.000000 0.629734" />
+    <ImageTarget name="cat1" size="1.000000 0.628809" />
+    <ImageTarget name="cat" size="1.000000 0.473227" />
+    <ImageTarget name="tiger" size="1.000000 0.454221" />
+    <ImageTarget name="tiger1" size="1.000000 0.666667" />
+  </Tracking>
+</QCARConfig>
